@@ -40,6 +40,10 @@
     * Go to **Optimization Engine** to clean junk and RAM.
     * Visit **Gaming Hub** to calibrate your mouse and power settings.
 
+## 🔑 PW
+
+NPO V1.2
+
 ---
 
 ## 💻 Technical Stack
